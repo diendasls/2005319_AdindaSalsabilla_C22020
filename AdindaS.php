@@ -1,2 +1,5 @@
-Nama: Adinda Salsabilla
-NIM: 2005319
+<?php
+    echo "Nama : Adinda Salsabilla<br>";
+    echo "NIM  : 2005319";
+?>
+
